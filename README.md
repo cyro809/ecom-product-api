@@ -1,3 +1,3 @@
-# ecom-product-api
+# Ecom Product API
 
-## A Python Flask API to list and search products from the Data Base. (Used for study purposes)
+## A Python Flask API to list and search products from of an E-commerce Data Base. (Used for study purposes)
